@@ -31,13 +31,6 @@ The dataset includes different emotions such as: **Happy, Sad, Angry, Fear, Surp
 
 ---
 
-## 🚀 Future Improvements
-- Apply **data augmentation** to improve generalization  
-- Introduce **dropout layers** to reduce overfitting  
-- Use **transfer learning (e.g., VGG16, ResNet, MobileNet)** for better accuracy on real-world images  
-
----
-
 ## 📂 Files
 - `Human_Emotion_Detection_CNN.ipynb` → Jupyter Notebook containing the complete implementation  
 
